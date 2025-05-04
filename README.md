@@ -105,5 +105,3 @@ jupyter notebook
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – free for academic and personal use.
-
-```
