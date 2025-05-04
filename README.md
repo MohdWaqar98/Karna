@@ -102,8 +102,6 @@ jupyter notebook
   * [Google Web Speech API](https://www.google.com/intl/en/chrome/demos/speech.html)
   * `speech_recognition`, `ipywidgets`, `pyaudio`
 
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – free for academic and personal use.
